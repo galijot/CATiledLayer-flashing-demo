@@ -1,0 +1,13 @@
+## macOS - General
+.DS_Store
+.AppleDouble
+.LSOverride
+
+## Xcode
+*.xcuserstate
+*.xcworkspace/xcuserdata/
+*.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings
+*.xcodeproj/xcuserdata/
+*.xcodeproj/project.xcworkspace/
+xcuserdata/
+.build/
